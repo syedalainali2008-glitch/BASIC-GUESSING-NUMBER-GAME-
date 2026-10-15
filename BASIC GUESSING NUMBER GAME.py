@@ -94,3 +94,5 @@ elif input1>number:
             print("WELL DONE YOU WON THE GAME:")
 elif input1==number:
     print("WELL DONE YOU WON THE AT FIRST TIME:")
+else:
+    print("NUMBER OUT OF RANGE:")
