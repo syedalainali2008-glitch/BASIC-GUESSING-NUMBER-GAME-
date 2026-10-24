@@ -1,2 +1,0 @@
-web: gunicorn "BASIC GUESSING NUMBER GAME:app"
-web: gunicorn app:app
